@@ -23,9 +23,7 @@ design/old walk.gd
 *.mp3
 
 #Engine Files
-*.tex
 *.smp
-*.msh
 
 #IDE
 *.nja
