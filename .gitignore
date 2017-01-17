@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+
+#dir
+software/
+design/tutorial
+asset/kmountain/third_party
+design/blog
+design/concept
+design/refrence
+design/tutorial
+design/old walk.gd
+
+#Raw asset files
+*.blend1
+*.blend2
+*.jpg
+*.png
+*.tiff
+*.targa
+*.exr
+*.ogg
+*.wav
+*.flac
+*.mp3
+
+#Engine Files
+*.tex
+*.smp
+*.msh
+
+#IDE
+*.nja
+
+#binaries
+*.o
+*.exe

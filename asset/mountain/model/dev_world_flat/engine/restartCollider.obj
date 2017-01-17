@@ -1,0 +1,12 @@
+# Blender v2.78 (sub 0) OBJ File: 'dev_world_04.blend'
+# www.blender.org
+mtllib restartCollider.mtl
+o restartCollider_Plane.006
+v -170.061310 -112.084068 115.001656
+v 96.557312 -112.084068 115.001656
+v -170.061310 -112.084068 -130.143066
+v 96.557312 -112.084068 -130.143066
+vn 0.0000 1.0000 0.0000
+usemtl None
+s off
+f 1//1 2//1 4//1 3//1

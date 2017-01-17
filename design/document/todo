@@ -1,0 +1,18 @@
+Must be done:
+
+Should be done
+	Abilitie to pick up objects
+	Basic Inventory
+	UI to exit game, restart
+
+Extra (Easy Implement)
+	Day night Cycle
+	Light emmiting objects
+	
+Extra (Hard Implement)
+	Lightmaps
+	clean up the player walk script, no extra features
+	
+Extention
+	cave area
+	

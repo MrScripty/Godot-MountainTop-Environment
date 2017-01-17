@@ -1,0 +1,37 @@
+Size=small
+players=single
+gametype=explore
+engine=Godot 2.1.1
+platform=Windows7+, LinuxMint17+
+NativePlatform=LinuxMint17.2
+ContentCreation=Blender2.78a, mypaint1.1.0-3
+
+Idea=
+	Mountain top environment with a shelter, sourounded by cliffs so cant get off.
+	Objective is to build a drawbridge to escape with their supplies to another 
+	cliff.
+
+Gameplay=
+	First person, explore to find materials needed to make parts and survive the 
+	harsh weather conditions. Terain is rugged rocks with patches of grassland.
+	Player will use a notebook as a guide and progress report.
+
+Demographic=
+	Adults, short indi survival
+
+Atmosphere=
+	Wilderness, player should feel isolated from society and self reliant. Low
+	visibility, cold, windy, blue gray with yellowish green highlights. Sound
+	of wind, footsteps, rustling grasses/sparse shrubs, dry snow being blown. 
+	Little to no distant sound, snow dampens the noise.
+
+Time=
+	18th century, fall
+
+How to direct the player=
+	Focal point will be the nearby cliff, it will be the only nearby place to
+	reach.  Will place a small abandoned structure that contrasts the colours.
+
+Concentration=
+	Maine aspect will be making a nice looking environment and implement very basic 
+	gameplay mechanics. 
